@@ -1,0 +1,53 @@
+.mycontent{
+color:#271D1A;
+font-size:0.9em;
+padding:40px;
+}
+
+
+#myfooter{
+	width:100%;
+	margin:0px;
+font-size:0.9em;
+padding:20px;
+text-align:center;
+border:solid  #271D1A 1px;	
+
+}
+
+.dimtest1{
+width:250px;
+height:50px;
+border:2px solid blue;
+float:left;
+}
+.dimtest2{
+width:250px;
+height:50px;
+border:2px solid blue;
+float:left;
+
+}
+
+.dimtest3{
+width:250px;
+height:50px;
+border:2px solid blue;
+
+
+}
+
+
+
+.banner{
+	width:70%;
+	height:auto;
+	
+}
+
+
+
+
+
+
+
